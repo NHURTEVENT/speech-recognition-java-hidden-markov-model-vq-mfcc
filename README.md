@@ -1,3 +1,5 @@
+#This fork is only here to credit it's author. The real modified version is in private repository for the time being
+
 ## Java Speech Recognition using Hidden Markov Model / Vector Quantization / MFCC 
 
 
